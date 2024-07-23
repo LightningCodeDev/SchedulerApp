@@ -13,12 +13,15 @@ App that handles management and scheduling of tasks.
 ## Installation
 
 1. Install dependencies
-
-```bash
+	```bash
 $ npm install
 ```
 2. Setup postgresql and redis locally
 3. Update .env file
+4. Run prisma migrations
+	```bash
+$ npx prisma migrate deploy
+```
 
 
 ## Running the app
