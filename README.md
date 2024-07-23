@@ -28,8 +28,16 @@ $ npm install
 $ npm run start
 
 ```
+
+## Tests
+
+```bash
+# unit tests
+$ npm run test
+```
+
 ## Documentation
-Once app is running access swagger UI on http://localhost:3000/api
+Once the app is running access swagger UI on http://localhost:3000/api
 
 
 ## License
