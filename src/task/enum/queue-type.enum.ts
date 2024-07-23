@@ -1,0 +1,4 @@
+export enum QueueType {
+    CONSOLE_LOG = 'CONSOLE_LOG',
+    COMPUTATIONAL = 'COMPUTATIONAL',
+}
